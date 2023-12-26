@@ -76,9 +76,10 @@ input:focus, textarea:focus, select:focus {
 
 @media only screen and (max-width: 760px) {
   body {
-    /* Mobile styles go here */
     font-size: 14px;
   }
+
+  /* Add any additional styles for smaller screens here */
 }
 
 p.success {
